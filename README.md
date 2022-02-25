@@ -16,3 +16,7 @@ Our program requires Python to run.
 ## Group Members (And how to reach us):
 Matt Semmel https://github.com/matt-semmel
 Joel Julin https://github.com/joel961
+
+## For the Assignment
+For the license we went with the MIT Commons because it's well-known and comprehensive.
+For the CoC we followed with Jupyter's Code of Conduct because it was well thought out and comprehensive. Particularly in regards to "judges code and not people".
